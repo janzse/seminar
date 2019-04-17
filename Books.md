@@ -4,7 +4,7 @@
 | Studierender                  | Buch                                                   |
 |-------------------------------|--------------------------------------------------------|
 |   Martin Ziel                 | Implementing DevOps on AWS |
-|   Sebastian Janzen            | |
+|   Sebastian Janzen            | Understanding Software|
 |   Tim Goebel                  | Domain-Driven Design: Tackling Complexity in the Heart of Software |
 |   Daniel Haering              | Software Design X-Rays: Fix Technical Debt with Behavioral Code Analysis |
 |   Gerrit Haake                | Business Analysis und Requirements Engineering: Produkte und Prozesse nachhaltig verbessern |
